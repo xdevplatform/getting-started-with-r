@@ -2,7 +2,7 @@ install.packages("rtweet")
 library(rtweet)
 
 synths <- search_tweets(
-  "#synths", n = 18000, include_rts = FALSE
+  "#synths", n = 5, include_rts = FALSE
 )
 
 View(synths)
