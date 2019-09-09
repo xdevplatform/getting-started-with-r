@@ -2,7 +2,8 @@
 Scripts to help you get started using R and the Twitter API.
 
 ## Using this code
-* Be sure to check out this corresponding blog post at https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api
+* Be sure to check out this corresponding [blog post](https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api
+) which walks you through how to get started with this code.
 
 ## Support
 
