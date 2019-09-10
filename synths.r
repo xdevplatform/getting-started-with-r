@@ -8,9 +8,13 @@ synths <- search_tweets(
 View(synths)
 
 mean(synths$favorite_count)
+
 median(synths$favorite_count)
+
 min(synths$favorite_count)
+
 max(synths$favorite_count)
+
 range(synths$favorite_count)
 
 write_as_csv(synths, file_name = "synths.csv", prepend_ids = TRUE, na = "", 
